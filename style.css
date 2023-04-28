@@ -1,0 +1,16 @@
+header {
+    min-height: 15vh;
+}
+
+main {
+    min-height: 75vh;
+}
+
+footer {
+    min-height: 10vh;
+    margin-bottom: -10vh;
+}
+
+.card-custom {
+    min-height: 35vh;
+}
